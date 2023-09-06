@@ -1,4 +1,4 @@
-#!/home/dave/Angular/Mandelbrot/backend/env/bin/python
+#!/home/dave/Angular/MandelbrotVisualizer/backend/env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
