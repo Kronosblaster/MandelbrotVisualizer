@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="135.51222mm"
+   height="177.8mm"
+   viewBox="0 0 135.51222 177.8"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="mandel_text.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.75187991"
+     inkscape:cx="186.86495"
+     inkscape:cy="349.7899"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="507.0462"
+       y="652.86276"
+       width="548.06067"
+       height="670.69948"
+       id="rect2570" />
+    <rect
+       x="113.18277"
+       y="207.50641"
+       width="507.91333"
+       height="733.7453"
+       id="rect344" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.946492,-55.960925)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text342"
+       style="font-size:32px;font-family:Domyouji;-inkscape-font-specification:Domyouji;text-align:center;letter-spacing:-0.02px;white-space:pre;shape-inside:url(#rect344);display:inline;fill:#262626;stroke-width:1.00157"
+       x="-246.67212"
+       y="0"><tspan
+         x="113.18359"
+         y="237.64986"
+         id="tspan2814"><tspan
+           dx="0 0 0 1.7600012 -1.7599971 0 0 0 0 0 0 0 0 0 1.7600012 -1.7600086 0 0 1.7600012 -1.7600086 0 1.7600012 -1.7600086 0 0 1.7600012 -1.7599781 0 0 1.7600012 -1.7599781 0 1.7600012"
+           style="text-align:start;letter-spacing:-0.03px;word-spacing:-1.76px;text-anchor:start;fill:#ffffff"
+           id="tspan2812">The Mandelbrot set is the set of </tspan></tspan><tspan
+         x="113.18359"
+         y="277.64986"
+         id="tspan2818"><tspan
+           dx="0 0 0 0 0 0 0 1.7599936 -1.7599933 0 0 0 0 0 0 1.7600012 -1.7600086 1.7600012 -1.7600086 0 0 1.7600012 -1.7600086 0 0 0 0 1.7600012"
+           style="text-align:start;letter-spacing:-0.03px;word-spacing:-1.76px;text-anchor:start;fill:#ffffff"
+           id="tspan2816">complex numbers c for which </tspan></tspan><tspan
+         x="113.18359"
+         y="317.64986"
+         id="tspan2822"><tspan
+           dx="0 0 0 1.7599993 -1.7600009 0 0 0 0 0 0 0 0 1.7600012"
+           style="text-align:start;letter-spacing:-0.03px;word-spacing:-1.76px;text-anchor:start;fill:#ffffff"
+           id="tspan2820">the function,
+</tspan></tspan><tspan
+         x="113.18359"
+         y="357.64986"
+         id="tspan2826"><tspan
+           style="text-align:start;letter-spacing:-0.03px;word-spacing:-1.76px;text-anchor:start;fill:#ffffff"
+           id="tspan2824">
+</tspan></tspan><tspan
+         x="113.18359"
+         y="397.64986"
+         id="tspan2842"><tspan
+           style="text-align:start;letter-spacing:-0.03px;word-spacing:-1.76px;text-anchor:start;fill:#ffffff"
+           id="tspan2828">       </tspan><tspan
+           dx="-1.7599971"
+           style="letter-spacing:-0.03px;word-spacing:-1.76px;fill:#ffffff"
+           id="tspan2830">z</tspan><tspan
+           style="letter-spacing:-0.03px;word-spacing:-1.76px;baseline-shift:sub;fill:#ffffff"
+           id="tspan2832">n+1</tspan><tspan
+           style="letter-spacing:-0.03px;word-spacing:-1.76px;fill:#ffffff"
+           id="tspan2834">=z</tspan><tspan
+           style="letter-spacing:-0.03px;word-spacing:-1.76px;baseline-shift:sub;fill:#ffffff"
+           id="tspan2836">n</tspan><tspan
+           style="letter-spacing:-0.03px;word-spacing:-1.76px;baseline-shift:super;fill:#ffffff"
+           id="tspan2838">2</tspan><tspan
+           dx="0 0 1.7600012"
+           style="letter-spacing:-0.03px;word-spacing:-1.76px;fill:#ffffff"
+           id="tspan2840">+c
+</tspan></tspan><tspan
+         x="113.18359"
+         y="437.64986"
+         id="tspan2848"><tspan
+           style="letter-spacing:-0.03px;word-spacing:-1.76px;fill:#ffffff"
+           id="tspan2844"> </tspan><tspan
+           style="letter-spacing:-0.03px;word-spacing:-1.76px;fill:#ffffff"
+           id="tspan2846">
+</tspan></tspan><tspan
+         x="113.18359"
+         y="477.64986"
+         id="tspan2852"><tspan
+           dx="0 0 0 0 1.7599974 -1.7600009 0 0 1.7600012 -1.7599933 0 0 0 0 0 0 1.7600012 -1.7600086 0 1.7600012 -1.7600086 0 0 0 0 0 0 0 1.7600012"
+           style="letter-spacing:-0.03px;word-spacing:-1.76px;fill:#ffffff"
+           id="tspan2850">does not diverge to infinity </tspan></tspan><tspan
+         x="113.18359"
+         y="517.64986"
+         id="tspan2856"><tspan
+           dx="0 0 0 0 1.7599936 -1.7600009 0 0 0 0 0 0 0 1.7600012 -1.7600086 0 0 0 1.7600012 -1.7600086 0 0 0 1.7600012 -1.7600086 0 1.7600012 -1.7599781 0 0 1.7600012"
+           style="letter-spacing:-0.03px;word-spacing:-1.76px;fill:#ffffff"
+           id="tspan2854">when iterated from z=0. It was </tspan></tspan><tspan
+         x="113.18359"
+         y="557.64986"
+         id="tspan2860"><tspan
+           dx="0 0 0 0 0 1.7599974 -1.7600009 0 0 0 0 1.7600012 -1.7600086 0 0 1.7600012 -1.7599933 0 0 0 0 0 0 1.7600012 -1.7600086 0 1.7600012"
+           style="letter-spacing:-0.03px;word-spacing:-1.76px;fill:#ffffff"
+           id="tspan2858">first drawn and defined by </tspan></tspan><tspan
+         x="113.18359"
+         y="597.64986"
+         id="tspan2864"><tspan
+           dx="0 0 0 0 0 0 1.7600012 -1.7600009 0 1.7600012 -1.7600086 0 0 0 0 0 1.7600012 -1.7600086 0 0 1.7600012 -1.7600086 0 0 0 0 1.7600012"
+           style="letter-spacing:-0.03px;word-spacing:-1.76px;fill:#ffffff"
+           id="tspan2862">Robert W. Brooks and Peter </tspan></tspan><tspan
+         x="113.18359"
+         y="637.64986"
+         id="tspan2868"><tspan
+           dx="0 0 0 0 0 0 0 0 0 1.7600012 -1.7599933 0 0 1.7600012 -1.7600086 0 0 0 0 1.7600012 -1.7600086 0 0 0 0 0 0 0 1.7600012"
+           style="letter-spacing:-0.03px;word-spacing:-1.76px;fill:#ffffff"
+           id="tspan2866">Mandelski and later properly </tspan></tspan><tspan
+         x="113.18359"
+         y="677.64986"
+         id="tspan2872"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 1.7600012 -1.7599933 0 1.7600012 -1.7600086 0 0 0 0 0 1.7600012"
+           style="letter-spacing:-0.03px;word-spacing:-1.76px;fill:#ffffff"
+           id="tspan2870">visualised by Benoit </tspan></tspan><tspan
+         x="113.18359"
+         y="717.64986"
+         id="tspan2878"><tspan
+           style="letter-spacing:-0.03px;word-spacing:-1.76px;fill:#ffffff"
+           id="tspan2874">Mandelbrot.</tspan><tspan
+           dx="-0.0099987797"
+           style="text-align:start;text-anchor:start;fill:#ffffff"
+           id="tspan2876"> 
+</tspan></tspan><tspan
+         x="113.18359"
+         y="757.64986"
+         id="tspan2882"><tspan
+           style="text-align:start;text-anchor:start;fill:#ffffff"
+           id="tspan2880">This tool visualises the </tspan></tspan><tspan
+         x="113.18359"
+         y="797.64986"
+         id="tspan2886"><tspan
+           style="text-align:start;text-anchor:start;fill:#ffffff"
+           id="tspan2884">Mandelbrot set showcasing </tspan></tspan><tspan
+         x="113.18359"
+         y="837.64986"
+         id="tspan2890"><tspan
+           style="text-align:start;text-anchor:start;fill:#ffffff"
+           id="tspan2888">infinite zoom on the fractal </tspan></tspan><tspan
+         x="113.18359"
+         y="877.64986"
+         id="tspan2894"><tspan
+           style="text-align:start;text-anchor:start;fill:#ffffff"
+           id="tspan2892">using the given control buttons.  </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,29.946492,55.960925)"
+       id="text2568"
+       style="font-size:192px;font-family:Domyouji;-inkscape-font-specification:Domyouji;text-align:center;white-space:pre;shape-inside:url(#rect2570);display:inline;fill:#262626;stroke-width:1.00157" />
+  </g>
+</svg>

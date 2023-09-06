@@ -1,0 +1,101 @@
+.App1{
+  width: auto;
+}
+.App-header2{
+  height: 70px;
+  width: auto;
+  position: relative;
+  display: grid ;
+  grid-template-rows:max-content;
+  background-color: #282c34;
+  overflow: hidden;
+}
+.bg-App-col {
+  background-color: #1c1f24;
+}
+.navbar{
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  height: 70px; 
+  width:100%;
+}   
+img{
+  position: inherit;
+  left: 20px;
+}
+p{
+  position: inherit;
+  left:40px;
+  top:7px;
+  width: 80%;
+  color:rgb(180, 204, 219);
+  font-weight: 700;
+  font-size: 40px;
+  -webkit-user-select: none;  
+  -moz-user-select: none;    
+  -ms-user-select: none;      
+  user-select: none;
+}
+.p2{
+  position: inherit;
+  left:0%;
+  top:10px;
+  color:rgb(255, 255, 255);
+  font-weight: 700;
+  font-size: 23px;
+}
+.cont{
+  width: 5%;
+  max-width: 300px;
+  align-items: center;
+}
+.btn-info{
+  position: absolute;
+  right: 2.5%;
+  top: 25%;
+  align-self:center;
+  box-ordinal-group: aquamarine;
+
+}
+
+.canvas{
+  background-image: rgb(177, 31, 31);
+  position:relative;
+  display: grid;
+  grid-template-columns: 50% 10px;
+  width: fit-content;
+  margin: 0;
+  overflow: hidden;
+}
+.render{
+  position: relative;
+  left: 0px;
+}
+
+.controls{
+  background-color: antiquewhite;
+}
+.footer{
+  background-color: #1c1f24;
+  width: 100%;
+  bottom:0;
+  height:192px;
+  overflow-y:-moz-hidden-unscrollable;;
+  position: relative;
+}
+
+
+.disable-select {
+  -webkit-user-select: none;  
+  -moz-user-select: none;    
+  -ms-user-select: none;      
+  user-select: none;
+}
+
+.container2{
+  height: auto;
+  width: auto;
+  position: relative;
+  background-color: antiquewhite;
+}
